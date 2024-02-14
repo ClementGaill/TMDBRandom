@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = 'API_KEY';
+    const apiKey = '799bd62b937160f9b5703396b6a939bd';
     const generateBtn = document.getElementById('generate-btn');
 
     generateBtn.addEventListener('click', () => {
